@@ -17,6 +17,12 @@
   <a href="https://www.ionicfirebaseapp.com/products">Products</a>
   ·
   <a href="https://www.ionicfirebaseapp.com/blogs">Blog</a>
+  
+  <p align="center">
+  <a href="https://www.ionicfirebaseapp.com/products/ionic-firebase-news-mobile-app">
+    <img src="https://res.cloudinary.com/dlx35qw0l/image/upload/v1566991563/News-app_wpegw9.jpg"Ionic News App Banner">
+  </a>
+</p>
   </h2>
 
 ## Ionic News App
