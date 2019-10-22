@@ -43,7 +43,11 @@ Create a news app to publish a wide range of news & information happening around
 ## Quick start
 
 Read the [Getting started page](https://docs.ionicfirebaseapp.com/ionicnewsapp/) for information about Ionic News App.
-  ### Video Guide is Comming soon, Please keep support and encourage us through share and star so we can bring all these product as opensource.
+
+## Video Installation Guide 
+| Ionic News App Installation  | News App Features |
+| ------------- | ------------- |
+| [![IONIC FIREBASE News MOBILE APP INSTALLATION GUIDE](https://res.cloudinary.com/dzu7tvexv/image/upload/v1571646712/x159iyclzzdwfiufpass.jpg)](https://youtu.be/wFsGSpnd-m4) | [![News App Features](https://res.cloudinary.com/dzu7tvexv/image/upload/v1571641937/dotnvxyrn33qnmns5t2z.jpg)](https://youtu.be/zhrCFSuRyFk)|
   
   ## What's included
 
