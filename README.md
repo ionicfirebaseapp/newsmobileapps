@@ -69,6 +69,10 @@ Our Ionic News App included free source code and setup file to download.In case 
 | ------------- | ------------- |
 | <a href="https://www.ionicfirebaseapp.com/products/ionic-starter-ui-ux-kit" rel="Free Ionic UI Starter Kit">![Free Ionic UI Starter Kit](https://res.cloudinary.com/dzu7tvexv/image/upload/w_590,h_300,f_auto,q_auto/v1566380040/rheff2vucbtuqeugpbmv.jpg) </a> |  <a href="https://www.ionicfirebaseapp.com/products/ionic-3-restaurant-mobile-app" rel="Free Ionic Restaurant Mobile app"> ![Free Ionic Restaurant Mobile app](https://res.cloudinary.com/dzu7tvexv/image/upload/f_auto,q_auto/v1566369745/tepubukeji3u5qpr7o3p.jpg) </a>| 
 
+## More About This Application
+
+This news application made with ionic framework which provides great user experience with great user interface.By using this application you can publish wide range of global news and information.
+
 ## Copyright and license
 
 Code and documentation copyright 2017-2019 the [IONICFIREBASEAPP Authors](https://ionicfirebaseapp.com) and [PIETECH SOLUTION PVT LTD.](https://pietechsolution.com.com) Code released under the [MIT License]. Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
